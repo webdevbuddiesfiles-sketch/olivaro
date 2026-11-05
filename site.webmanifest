@@ -1,0 +1,16 @@
+{
+ "name": "Olivaro Journal",
+ "short_name": "Olivaro",
+ "description": "Independent information and ordering website for Olivaro liquid drops.",
+ "start_url": "/index.html",
+ "display": "standalone",
+ "background_color": "#F7F8EA",
+ "theme_color": "#5B7B14",
+ "icons": [
+  {
+   "src": "assets/images/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}
